@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Start {
 
 	public static void main(String[] args) throws IOException, NumberFormatException {
-		System.out.println("!! Welcome to Student Management System !!");
+		System.out.println("!!-- Welcome to Student Management System --!!");
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		
 		while(true) {
